@@ -1,0 +1,5 @@
+:nnoremap <leader>rr :action Run<cr>
+:nnoremap <leader>rf :action RenameFile<cr>
+
+:set keep-english-in-normal-and-restore-in-insert
+:set ignorecase
